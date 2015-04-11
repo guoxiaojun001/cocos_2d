@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="15" height="10" tilewidth="50" tileheight="50">
+ <tileset firstgid="1" name="bk1" tilewidth="50" tileheight="50">
+  <image source="bk1.jpg" width="678" height="331"/>
+ </tileset>
+ <layer name="块层 1" width="15" height="10">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC8XPx05CUQBAwRcQC2qwYMGAFCkRCyoEFEQ0FBWF//8cZvlyd6xYTHK2JxFFUZItErFOsc0Ou+yRZp8DDslwxHHQJ5yS5YxzLrgkxxV5ClwHXaREmQo3VKlRp8EtTe6CvueBR1o88cwLbTrBY5cer7zRZ8A7Qz4Y8clX8DhmwpQZ3/zwy5w//lmw3OBv/HHd3/jjur8r0P/Di1gCAAA=
+  </data>
+ </layer>
+ <objectgroup name="road" width="15" height="10">
+  <object x="17" y="69"/>
+  <object x="225" y="77"/>
+  <object x="227" y="269"/>
+  <object x="223" y="417"/>
+  <object x="427" y="419"/>
+  <object x="421" y="220"/>
+  <object x="573" y="217"/>
+  <object x="727" y="219"/>
+ </objectgroup>
+</map>
